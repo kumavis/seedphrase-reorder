@@ -1,0 +1,19 @@
+{
+  "name": "seedphrase-reorder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bip39": "^2.5.0",
+    "es6-promise-pool": "^2.5.0",
+    "eth-hd-keyring": "^1.2.2",
+    "ethjs": "^0.3.6",
+    "pretty-ms": "^3.1.0",
+    "yargs": "^11.0.0"
+  }
+}
